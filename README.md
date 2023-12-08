@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,12,15&height=300&section=header&text=Kim%20HeeYoonk&animation=twinkling&fontSize=90&desc=Korean%20DMU%20AI%20student&descSize=30&descAlignY=70)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,12,15&height=300&section=header&text=Kim%20HeeYoon&animation=twinkling&fontSize=90&desc=Korean%20DMU%20AI%20student&descSize=30&descAlignY=70)
 
 
 <!-- 뱃지 -->
